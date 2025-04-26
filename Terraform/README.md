@@ -28,6 +28,6 @@ TERRAFORM/
 
 
 ## How to Run
-terraform init
-terraform plan #always plan first then apply 
-terraform apply
+- terraform init
+- terraform plan #always plan first then apply 
+- terraform apply
