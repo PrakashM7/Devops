@@ -1,3 +1,6 @@
+#Check README.md for better undertsanding 
+#https://github.com/PrakashM7/Devops/tree/main/Terraform
+
 provider "aws" { #Terraform will provide the resources based on our requirement i.e AWS , AZURE etc 
     region = "us-east-1"
   
@@ -11,3 +14,4 @@ resource "aws_instance" "EC2_terraform" {
     }
   
 }
+
